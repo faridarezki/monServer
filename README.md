@@ -18,17 +18,17 @@
 		- [x] content
 		- [x] created_at (DATETIME)
 - [x] Création d'un CRD (pas d'Update, on l'a pas vu) node : 
-- [x]Route '/api/articles/create' -> permet de créer un article_id
+- [x] Route '/api/articles/create' -> permet de créer un article_id
 - [x] Route '/api/articles/delete' -> permet de supprimer un article par son id
 - [x] Route '/api/articles' -> permet de récuperer les 5 derniers articles créés dans un tableau
 - [x] Route '/api/comments/create' -> permet de créer un commentaire
 - [x] Route '/api/comments/delete' -> permet de supprimer un commentaire par son id
 - [x] Route '/api/comments' -> permet de récuperer les 5 derniers commentaires postés
-- []Création de formulaires HTML pour tout tester 
-- [] Articles 
-- []create.html
-- [] delete.html
-- [] Comments 
-- []create.html
-- [] delete.html
+- [x] Création de formulaires HTML pour tout tester 
+- [x] Articles 
+- [x] create.html
+- [x] delete.html
+- [x] Comments 
+- [x]create.html
+- [x] delete.html
 
