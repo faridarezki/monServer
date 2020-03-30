@@ -1,10 +1,10 @@
 
 const express = require("express");
 const mysql = require("mysql");
-const settings = require("./settings.json"); 
+const settings = require("./settings.json");
+const app = express();
 
 const sqlConfig = settings.sqlConfig;
-    
 
 app.listen(3000, () =>  {
     console.log("SERVER STARTED !");

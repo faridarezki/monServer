@@ -1,0 +1,24 @@
+{
+  "name": "monserver",
+  "version": "1.0.0",
+  "description": "projet teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridarezki/monServer.git"
+  },
+  "author": "farid arezki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridarezki/monServer/issues"
+  },
+  "homepage": "https://github.com/faridarezki/monServer#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
