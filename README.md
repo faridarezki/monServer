@@ -3,6 +3,7 @@
 - [x] Publication sur github 
 - [x] Installation eslint & configuration 
 - [x] Installation express & mysql 
+- [x] Création  fichiers index.js ET settings
 - [x] Création d'une table MySQL -> mettre les commandes de créations dans le projet (fichier .sql) : 
 - [x] Articles 
 		- [x] id
